@@ -1,0 +1,44 @@
+{
+  "name": "site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "classnames": "^2.3.1",
+    "framer-motion": "^10.6.6",
+    "he": "^1.2.0",
+    "html-to-react": "^1.7.0",
+    "lodash": "^4.17.21",
+    "lodash.range": "^3.2.0",
+    "luxon": "^1.25.0",
+    "next": "^14.0.4",
+    "next-seo": "^6.4.0",
+    "polished": "^3.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-syntax-highlighter": "^15.4.3",
+    "sanitize-html": "^2.3.2",
+    "use-debounce": "^7.0.0",
+    "wpapi": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/he": "^1.1.2",
+    "@types/luxon": "^3.0.0",
+    "@types/node": "^18.0.6",
+    "@types/react-syntax-highlighter": "^15.5.3",
+    "@types/wpapi": "^1.1.1",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.3.7",
+    "typescript": "^5.3.3"
+  }
+}

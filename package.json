@@ -34,6 +34,7 @@
     "@types/he": "^1.1.2",
     "@types/luxon": "^3.0.0",
     "@types/node": "^18.0.6",
+    "@types/react": "18.2.0",
     "@types/react-syntax-highlighter": "^15.5.3",
     "@types/wpapi": "^1.1.1",
     "autoprefixer": "^10.4.2",
